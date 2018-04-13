@@ -1,0 +1,11 @@
+C:\Users\Etienne\source\repos\APayI\APayI\bin\Debug\netcoreapp2.0\APayI.deps.json
+C:\Users\Etienne\source\repos\APayI\APayI\bin\Debug\netcoreapp2.0\APayI.runtimeconfig.json
+C:\Users\Etienne\source\repos\APayI\APayI\bin\Debug\netcoreapp2.0\APayI.runtimeconfig.dev.json
+C:\Users\Etienne\source\repos\APayI\APayI\bin\Debug\netcoreapp2.0\APayI.dll
+C:\Users\Etienne\source\repos\APayI\APayI\obj\Debug\netcoreapp2.0\APayI.csprojResolveAssemblyReference.cache
+C:\Users\Etienne\source\repos\APayI\APayI\obj\Debug\netcoreapp2.0\APayI.csproj.CoreCompileInputs.cache
+C:\Users\Etienne\source\repos\APayI\APayI\obj\Debug\netcoreapp2.0\APayI.AssemblyInfoInputs.cache
+C:\Users\Etienne\source\repos\APayI\APayI\obj\Debug\netcoreapp2.0\APayI.AssemblyInfo.cs
+C:\Users\Etienne\source\repos\APayI\APayI\bin\Debug\netcoreapp2.0\APayI.pdb
+C:\Users\Etienne\source\repos\APayI\APayI\obj\Debug\netcoreapp2.0\APayI.dll
+C:\Users\Etienne\source\repos\APayI\APayI\obj\Debug\netcoreapp2.0\APayI.pdb
