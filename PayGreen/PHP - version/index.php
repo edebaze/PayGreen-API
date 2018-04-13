@@ -5,7 +5,7 @@
     $router = new App\Router\Router($_GET['url']);
 
     $router->get('/', function() {echo '
-        <form action="/Paygreen/transactions" method="post">
+        <form action=__DIR__ . "/transactions" method="post">
             <input type="number" name="amount">
             <input type="text" name="currency">
             <button type="submit"> Envoyer </button>
