@@ -13,11 +13,24 @@ Objectif - Gestion de transactions en ligne :
     Modifier le status d'une transaction    
 
 
+
+#### Object Transaction
+
+
 Requête acceptée  : HTTP request
 
 Format de retour  : Json
 
-                              
+    
+```
+    data.id         = ID de la transaction
+    data.amount     = Montant de la transaction (type : float)
+    data.currency   = Monaie utilisée
+    data.status     = Statut de la transaction
+    data.creatAT    = Date de création
+```
+
+                            
 
 
 ## Getting Started (PHP version)
