@@ -23,11 +23,11 @@ Format de retour  : Json
 
     
 ```
-    data.id         = ID de la transaction
-    data.amount     = Montant de la transaction (type : float)
-    data.currency   = Monaie utilisée
-    data.status     = Statut de la transaction
-    data.creatAT    = Date de création
+    data.id         = ID de la transaction          (type : integer)
+    data.amount     = Montant de la transaction     (type : float)
+    data.currency   = Monaie utilisée               (type : string)
+    data.status     = Statut de la transaction      (type : string)
+    data.creatAT    = Date de création              (type : datetime)
 ```
 
                             
